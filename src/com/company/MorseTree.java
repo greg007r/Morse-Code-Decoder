@@ -95,7 +95,7 @@ public class MorseTree {
         put("F","..-.");
         put("G","--.");
         put("H","....");
-        put("I", "");
+        put("I", "..");
         put("J",".---");
         put("K","-.-");
         put("L",".-..");
